@@ -1,0 +1,14 @@
+h1.introduction {
+  text-align: center;
+  font-size: 50px;
+  font-family: fantasy;
+}
+h2.introduction {
+  color: blue;
+}
+p.introduction {
+  font-family: cursive;
+}
+img.introduction {
+  text-align: center;
+}
